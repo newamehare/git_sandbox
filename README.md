@@ -9,3 +9,6 @@ Gitの練習用リポジトリ
 ## 環境
 - macOS
 - VS Code
+
+## memo
+- branch と PR の練習
